@@ -1,6 +1,5 @@
-[![Build Status](https://dev.azure.com/bigbossak84/JavaDemo/_apis/build/status/ahmedKhaled1995.pipelines-java?branchName=master)](https://dev.azure.com/bigbossak84/JavaDemo/_build/latest?definitionId=1&branchName=master)
+[![Build Status](https://dev.azure.com/bigbossak84/JavaDemo/_apis/build/status/ahmedKhaled1995.pipelines-java?branchName=master)](https://dev.azure.com/bigbossak84/JavaDemo/_apis/build/status/ahmedKhaled1995.pipelines-java?branchName=master)
 
-![Test Image 4](https://github.com/tograh/testrepository/3DTest.png 1.2k)
 
 # Contributing
 
