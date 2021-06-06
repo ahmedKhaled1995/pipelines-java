@@ -1,5 +1,4 @@
-https://dev.azure.com/bigbossak84/JavaDemo/_apis/build/status/ahmedKhaled1995.pipelines-java?branchName=master
-
+GET https://dev.azure.com/{organization}/{project}/_apis/build/repos/{repoType}/badge?api-version=6.0-preview.2
 
 # Contributing
 
